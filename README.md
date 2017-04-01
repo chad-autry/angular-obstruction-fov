@@ -42,4 +42,4 @@ while queue not empty
 # Notes
 * Cells are visited multiple times with distinct angles. It should be possible to merge them before processing
 * The view is asymetric, but could be made symetric with some work
-* Notice that diagonals cannot be seen through if the von Neuman neighbors are obstructed
+* Notice that diagonals from the viewer cannot be seen into if the shared von Neuman neighbors are obstructed
