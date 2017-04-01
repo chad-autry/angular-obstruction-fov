@@ -11,7 +11,7 @@ An algorithm for calculating FOV on co-ordinates relative to a viewer with angul
 * Asymetric vision (can be made symetric I think)
 
 # Algorithm
-```psuedo-code
+```pseudo-code
 initialize a queue with the visible adjacent cells in the von Neumann neighborhood of the starting cell
 //order in and out doesn't matter
 the cells should be decorated with the relative co-ordinate to the viewer
